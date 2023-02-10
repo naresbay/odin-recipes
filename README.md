@@ -1,2 +1,3 @@
 # odin-recipes
- Project: Recipes - theodinproject.com
+
+odin-recipes is a first HTML foundation project from theodinproject.com
